@@ -68,6 +68,26 @@ export default {
             link: '/documents/nodejs/nodejs',
             activeMatch: '^/config/',
           },
+          {
+            text: 'Ajax',
+            link: 'https://WangSirXY.github.io/ajaxCourse',
+            activeMatch: '^/config/',
+          },
+          {
+            text: 'Git',
+            link: 'https://WangSirXY.github.io/gitCourse',
+            activeMatch: '^/config/',
+          },
+          {
+            text: '移动Web & Webpack',
+            link: 'https://WangSirXY.github.io/mobileWebCourse',
+            activeMatch: '^/config/',
+          },
+          {
+            text: 'Vue',
+            link: 'https://wangsirxy.github.io/VueCourse',
+            activeMatch: '^/config/',
+          },
         ]
       },
       {
